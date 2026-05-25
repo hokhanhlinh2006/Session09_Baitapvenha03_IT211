@@ -1,0 +1,7 @@
+2026-05-25 21:17:54 [INFO] c.e.b.Baitap03Ss09Application - Starting Baitap03Ss09Application using Java 17.0.2 with PID 45628 (/Users/khanhly/Desktop/IT211_Web_Service_K24/baitap03_ss09/build/classes/java/main started by khanhly in /Users/khanhly/Desktop/IT211_Web_Service_K24/baitap03_ss09)
+2026-05-25 21:17:54 [DEBUG] c.e.b.Baitap03Ss09Application - Running with Spring Boot v3.5.0, Spring v6.2.7
+2026-05-25 21:17:54 [INFO] c.e.b.Baitap03Ss09Application - No active profile set, falling back to 1 default profile: "default"
+2026-05-25 21:17:55 [INFO] o.s.b.w.e.netty.NettyWebServer - Netty started on port 8080 (http)
+2026-05-25 21:17:55 [INFO] c.e.b.Baitap03Ss09Application - Started Baitap03Ss09Application in 2.327 seconds (process running for 3.828)
+2026-05-25 21:18:50 [INFO] o.s.b.w.e.netty.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-25 21:18:50 [INFO] o.s.b.w.e.netty.GracefulShutdown - Graceful shutdown complete
